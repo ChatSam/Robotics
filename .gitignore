@@ -1,0 +1,31 @@
+# Build and devel directories
+build/
+devel/
+
+# Compiled Python files
+*.pyc
+
+# Catkin custom files
+CATKIN_IGNORE
+
+# Log files
+*.log
+
+# ROS package directories (uncomment if you want to ignore specific packages)
+# src/package_name/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*~
+
+# ROS-specific files
+.catkin_workspace
+
